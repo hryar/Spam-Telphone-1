@@ -78,14 +78,13 @@ def call():
     r = requests.get("https://id.jagreward.com/member/verify-mobile/"+no+"/", headers=head)
     print
 banner="""
-\033[00m\033[35;1mCEK JARINGAN - SPAM TELPHONE
-\033[00m ▂ ▃ ▄ ▅\033[31;1m ▆ ▇ █ █ 4G
+━━━━━━✥◈✥━━━━════━━━━✥◈✥━━━━════━━━━✥◈✥━━━━━━
 \033[1;98m[\033[1;96m+\033[1;96m]AUTHOR  :\033[33;1mHry Ar
 ━═━═━═━═━═━═━═━═━━═━═━═━═━═━═━═━═━═━═━═━═━═━═━
 \033[1;96m[\033[1;96m+\033[1;96m]YOUTUBE :\033[33;1mHARRY ARBI
 ━═━═━═━═━═━═━═━═━━═━═━═━═━═━═━═━═━═━═━═━═━═━═━
-\033[1;96m[\033[1;96m+\033[1;96m]GitHub  :\033[33;1mgithub.com/hryar/Spam-Telphone-1
-══━━━━✥◈✥━━━━════━━━━✥◈✥━━━━════━━━━✥◈✥━━━━══ """
+\033[1;96m[\033[1;96m+\033[1;96m]GitHub  :\033[33;1mGithub.com/hryar/Spam-Telphone-1
+━━━━━━✥◈✥━━━━════━━━━✥◈✥━━━━════━━━━✥◈✥━━━━━━ """
 if __name__ == '__main__':
     os.system("clear")
     print (banner)
